@@ -1,0 +1,35 @@
+body, a{
+    background-image: url("imagenes/tabla.jpg");
+    }
+    h1{
+        text-align: center;
+        font-size: 300%;
+    }
+    
+    footer{
+        font-size: larger;
+     margin: 10px;
+        text-align: justify;
+    }
+    .got{
+        width: 200px;
+        height: 300px;
+        margin:auto;
+    }hr{
+        border: 3px solid rgb(221, 230, 255); border-radius: 300px/10px; height: 0px; text-align: center;
+    } 
+    .main{
+        margin-right: 100px;
+        margin-left: 100px;
+        margin-top: 50px;
+        
+    }
+    table{
+        margin: auto;
+    }
+    marquee{
+        color: aliceblue;
+    }
+    h4, h3{
+        color: aliceblue;
+    }
